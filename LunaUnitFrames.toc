@@ -9,22 +9,10 @@
 ## Author-zhCN: 原作者Avi，中文协作者zerosnake0
 ## Author-deDE: Avi
 ##
-## Dependencies:
+## Dependencies: Ace2
 ## SavedVariables: LunaDB, LunaBuffDB
-## OptionalDeps: Ace2, RosterLib, BanzaiLib, HealComm, DruidManaLib, MobHealth, Clique, FuBar, FuBarPlugin-2.0, Babble-2.2, CompostLib, SurfaceLib, Surfaces, DewdropLib, TabletLib
+## OptionalDeps: RosterLib, BanzaiLib, HealComm, DruidManaLib, MobHealth, Clique, FuBar, FuBarPlugin-2.0, Babble-2.2, CompostLib, SurfaceLib, Surfaces, DewdropLib, TabletLib
 ## X-Category: UnitFrame
-
-
-libs\AceLibrary\AceLibrary.lua
-
-libs\AceOO-2.0\AceOO-2.0.lua
-libs\AceDebug-2.0\AceDebug-2.0.lua
-libs\AceAddon-2.0\AceAddon-2.0.lua
-libs\AceConsole-2.0\AceConsole-2.0.lua
-libs\AceHook-2.1\AceHook-2.1.lua
-libs\AceDB-2.0\AceDB-2.0.lua
-libs\AceEvent-2.0\AceEvent-2.0.lua
-libs\AceLocale-2.2\AceLocale-2.2.lua
 
 libs\Babble-Spell-2.2\Babble-Spell-2.2.lua
 libs\Babble-Zone-2.2\Babble-Zone-2.2.lua
